@@ -1,4 +1,3 @@
-
 ### Step-by-Step Guide to Create Button with Hover and Click Effects
 
 **Step 1:** Open Figma
@@ -42,3 +41,4 @@
   - Trigger: On click
   - Action: Change to Click variant
 
+![alt text](image.png)

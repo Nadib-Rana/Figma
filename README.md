@@ -1,4 +1,3 @@
-Here's a simplified algorithm for learning Figma step-by-step:
 
 ### **Simplified Algorithm for Learning Figma**
 
